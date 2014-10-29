@@ -858,16 +858,6 @@ Read MathJax's documentation if you need [HTTPS delivery](http://docs.mathjax.or
 
 The **basic setup** is for authoring presentations only. The **full setup** gives you access to all reveal.js features and plugins such as speaker notes as well as the development tasks needed to make changes to the source.
 
-### Basic setup
-
-The core of reveal.js is very easy to install. You'll simply need to download a copy of this repository and open the index.html file directly in your browser.
-
-1. Download the latest version of reveal.js from <https://github.com/hakimel/reveal.js/releases>
-
-2. Unzip and replace the example contents in index.html with your own
-
-3. Open index.html in a browser to view it
-
 
 ### Full setup
 
@@ -879,7 +869,7 @@ Some reveal.js features, like external markdown and speaker notes, require that 
 
 4. Clone the reveal.js repository
    ```sh
-   $ git clone https://github.com/hakimel/reveal.js.git
+   $ git clone https://github.com/remi-san/gniales-it-presentation.git
    ```
 
 5. Navigate to the reveal.js folder
